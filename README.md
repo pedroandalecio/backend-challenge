@@ -1,3 +1,36 @@
+De acordo com o cenário proposto foi implementado da seguinte forma :
+
+O sistema simula uma loja virtual com os seguintes recursos :
+
+Categoria
+Cidade
+Cliente
+Endereço
+Estado
+ItemPedido
+Loja
+Pagamento = Cartao e Boleto
+Pedido
+Produto
+
+
+Segurança
+
+O controle de acesso foi implementado com spring security 
+Por se tratar de uma loja virtual os usuarios possuem tipos de usuario e foram implementados também
+controles especificos nos recursos no pacote : com.invillia.acme.controller
+
+
+Padrão para acessar os recursos
+application.properties
+localhost:8080/
+
+
+Arquivo configurado banco H2
+application-test.properties
+
+
+
 # Invillia recruitment challenge
 
 [![Build Status](https://travis-ci.org/shelsonjava/invillia.svg?branch=master)](https://travis-ci.org/shelsonjava/invillia)
