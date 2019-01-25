@@ -2,17 +2,7 @@ De acordo com o cenário proposto foi implementado da seguinte forma :
 
 O sistema simula uma loja virtual com os seguintes recursos :
 
-Categoria
-Cidade
-Cliente
-Endereço
-Estado
-ItemPedido
-Loja
-Pagamento = Cartao e Boleto
-Pedido
-Produto
-
+Categoria, Cidade, Cliente, Endereço, Estado, ItemPedido, Loja, Pagamento = Cartao e Boleto, Pedido, Produto
 
 Segurança
 
