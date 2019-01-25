@@ -6,18 +6,13 @@ Categoria, Cidade, Cliente, Endereço, Estado, ItemPedido, Loja, Pagamento = Car
 
 Segurança
 
-O controle de acesso foi implementado com spring security 
-Por se tratar de uma loja virtual os usuarios possuem tipos de usuario e foram implementados também
-controles especificos nos recursos no pacote : com.invillia.acme.controller
+Implementação com spring security, por se tratar de uma loja virtual os usuarios possuem tipos de usuario e foram implementados controles especificos nos recursos no pacote : com.invillia.acme.controller
 
 
-Padrão para acessar os recursos
-application.properties
-localhost:8080/
+Padrão para acessar os recursos : localhost:8080/
 
 
-Arquivo configurado banco H2
-application-test.properties
+Arquivo configurado banco H2 : application-test.properties
 
 
 
